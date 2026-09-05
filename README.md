@@ -1,4 +1,4 @@
-# Codex Remote Web
+# Codex Relay - Remote Web Console for Codex
 
 一个由电脑端桥接服务和手机网页组成的 Codex App Server 控制台。它支持查看历史对话、创建或恢复对话、发送任务、实时接收回复、停止回合，以及处理命令执行和文件修改审批。
 
